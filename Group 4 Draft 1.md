@@ -1,0 +1,27 @@
+
+Group 4 Part 1
+
+    For our first project, we have developed three ideas we believe could make an engaging and interesting database for a user. These three topics are concerts of popular bands, music platforms of today, and sneaker drops.
+
+Concerts of popular bands was our first idea. We think this is unique because it will consolidate everything into one space for a user to view and make a decision if they are deciding between different bands to go see. This is a brand new business that we are creating as nothing we know yet compares popular bands together. A typical business interaction would be a user who is interested in any of the bands on the database to come in and look at the different tables we have to offer for them. They can then purchase their tickets based off the information they are looking for. 
+
+The five tables held in this database are the artist, the cheapest tickets, the most expensive tickets, how many cities being played in, and the opening act. For our last table, we hold our end user data. This table is the number of people who bought tickets. This will continuously change as the database collects new data of a purchase being made. The entities contained in the database are the tables artist, cheapest tickets, most expensive tickets, how many cities being played in, the opening act, and number of people who bought tickets. Specific artist names, price of tickets, cities being played in, and the names of the opening acts are all attributes to our entities.
+
+Our goal for the concerts of popular bands database is to give the user a range of ticket prices while also providing them with the number of cities the band is available in. The user will use the cheapest tickets, most expensive tickets, and number of cities being played in tables to reach this goal.
+
+A music platform database is our next idea for the project. This database is unique because choosing a music platform is very important for people today, and we will provide them with information to make their decision wisely. We will be using businesses that are already established, such as Spotify or Apple Music. A user can then weigh their options and purchase a subscription to one of the services mentioned.
+
+The five tables held in the music platform database are the music platform, price of platform per month, if there is a student discount available, number of artists on the platform, and number of songs currently on the platform. The values contained in this table will all be relative to the day the database was made as music is such a fast growing topic. Our end user data will be our table on number of users. This table will record the decisions made by the users, and continously change value as a user purchases a subscription to a certain platform. The entities on this database are the tables music platform, price per month of platform, availability of a student discount, number of artists on the platform, number of songs on platform, and number of users of the platform. Specific platform names, price, amount of discount available for students, artist names, and song names are all attributes to our entities.
+
+Our goal for the music platform database is to assist potential users with information on which platform to subscribe to based on availability of songs and the price they will need to pay for them. The user will use the number of artists, number of songs, price per month, and student discount tables to all reach our projected goal. 
+
+Sneaker releases, otherwise known as sneaker "drops", are our last database idea. This database is unique because it is a hot topic with young adults who are into fashion, but don't know where to start when it comes to new releases and how to get their hands on them. This will be a new business that incorporates businesses already up and running, such as GOAT and StockX. We will help them find a new drop for the best price available so they can make their purchase.
+
+The five tables held in this database are the sneaker being released, the retail price, websites the shoe is being sold on, the lowest price found, the highest price found, and the number of vendors selling the shoe. Our end user data will be the price that the customer who was using the database ended up paying for their sneakers. This will greatly contribute to the database when it comes to data for future users to look at. The entities of this database are the tables sneaker being released, retail price, websites the shoe is being sold on, lowest price found, highest price found, number of vendors selling shoes, and price customer paid. Sneaker style, sneaker designer, particular websites, condition of shoe being sold, vendor names, and customer data are all attributes to our entities.
+
+Our goal for the sneaker drops database is to give the user data for not only where to find and how much it will cost to buy a new sneaker release, but to also provide data that will allow them to figure out what they can get for resale if they decide to resell. The user will use the retail price table, lowest and higest price tables, and website being sold on table to reach their purcashing goal. If they are interested on working towards the goal of resale, they can use the used sneaker price provided in the lowest and highest price tables and the data from previous prices customers paid that is collected in the end user data table. 
+
+
+```python
+
+```
